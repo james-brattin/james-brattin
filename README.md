@@ -15,8 +15,6 @@
 
 - :zap: In my free time, I read the news and what my super smart professor fiance says is worth reading.
 
-- :mailbox:How to reach me: (nothing yet)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
