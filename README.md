@@ -2,7 +2,7 @@
 
 ### :man_technologist: I'm a Full Stack Developer from the US.
 
-- :telescope: I’m currently working for the [International Ocean Discovery Program](https://iodp.tamu.edu/index.html).
+- :telescope: I’m currently working for [Texas A&M University](https://www.tamu.edu/)
 
 - :seedling: Interested in getting better at using neovim, linux, and CLI tools.
 
